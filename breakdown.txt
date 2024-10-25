@@ -1,0 +1,12 @@
+
+Branch: Intro
+    Intro // meddelande
+    randomisera fram ett nummer mellan 1-100. // funktion
+
+Branch: Gameplay
+    bygg gameplay loop där spelaren kan gissa på ett nummer mellan 1-100. //funktion
+
+Branch: WinLoseCondition
+
+    losing och winning condition. // funktion
+    outro. //meddelande
