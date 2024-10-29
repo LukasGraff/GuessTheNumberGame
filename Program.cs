@@ -3,8 +3,6 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("test");
 Console.WriteLine("nu ska gamla master heta main");
 
-
-
 //Gameplay (evelinas del)
 //Kommer ut random nummer mellan 1 till 100
 Random random = new Random();
